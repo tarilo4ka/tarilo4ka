@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tarilo4ka
+- 👋 Hi, I’m Oleksii Hytsiv
 - 👀 I’m interested in cross-platform development
 - 🌱 I’m currently learning .NET platform
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... telegram: @tarilo4ka
+- 📫 How to reach me ... (https://t.me/holeksiiua)
 
 <!---
 tarilo4ka/tarilo4ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
